@@ -1,0 +1,5 @@
+# ignore vscode configs
+/.vscode
+
+# ignore output of examples
+/examples/out.png
